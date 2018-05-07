@@ -1,0 +1,26 @@
+{
+	"rules": {
+		"no-unused-expression": true,
+		"curly": true,
+		"semicolon": [
+			true,
+			"always"
+		],
+		"triple-equals": true,
+		"switch-default": true,
+		"no-use-before-declare": true,
+		"no-unused-variable": true,
+		"no-conditional-assignment": true,
+		"variable-name": false,
+		"prefer-const": true,
+		"no-eval": true,
+		"prefer-conditional-expression": true,
+		"arrow-return-shorthand": true,
+		"ordered-imports": true,
+		"await-promise": true,
+		"no-duplicate-imports": true,
+		"prefer-template": true,
+		"promise-function-async": true,
+		"no-floating-promises": true
+	}
+}
